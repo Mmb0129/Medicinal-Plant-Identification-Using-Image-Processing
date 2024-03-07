@@ -1,1 +1,1 @@
-# Cotton-Disease-Prediction-Deep-Learning
+# Medicinal Plant Identification Using Image Processing
